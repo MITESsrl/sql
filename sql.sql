@@ -96,10 +96,4 @@ CREATE TABLE hacia (
         REFERENCES camiones (matricula)
 );
 
-drop database ESIPROYECTO;
-
-describe users;
-
-select * from personas;
-
 
