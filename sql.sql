@@ -96,4 +96,4 @@ CREATE TABLE hacia (
         REFERENCES camiones (matricula)
 );
 
-
+select * from admins;
